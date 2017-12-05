@@ -3,5 +3,14 @@ Release*/
 build/
 *.app/
 .svn/
+bin/
+.vs/**/*
+res/
+res/**/
+.vs/
 *.perspectivev3
 *.pbxuser
+*.user
+*.filters
+*.vcxproj
+
